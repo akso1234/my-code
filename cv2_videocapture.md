@@ -100,3 +100,8 @@ cap.release()	# 객체 해제
 out1.release()
 out2.release()
 cv2.destroyAllWindows()
+
+[참고 링크]
+https://deep-learning-study.tistory.com/107
+https://velog.io/@bangsy/Python-OpenCV3
+https://076923.github.io/posts/Python-opencv-2/
