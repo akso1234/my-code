@@ -1,3 +1,4 @@
+#20221576 김시온
 korean = ('정렬', '초보자', '내포', '사전')
 english = ('sorting', 'novice', 'comprehension', 'dictionary')
 
